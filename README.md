@@ -1,8 +1,6 @@
-![Uploading image.png…]()
-
-
-
-
+<p align="center">
+  <img src="assets/banner.png" alt="Global Data Analyst Banner" width="800"/>
+</p>
 
 <h1 align="center">🌍 Global Data Analyst Project</h1>
 
@@ -24,7 +22,12 @@
       <li>Azure AI Foundry</li>
     </ul>
   </li>
+  <li>Interactive dashboards built with <b>Streamlit</b></li>
+  <li>Data preprocessing and visualization with <b>Pandas, Matplotlib, Seaborn</b></li>
+  <li>Model training, evaluation, and deployment in <b>Azure ML</b></li>
 </ul>
+
+<hr>
 
 <h2>📂 Repository Structure</h2>
 <ul>
@@ -34,13 +37,17 @@
   <li><code>data/</code> → Sample datasets</li>
 </ul>
 
+<hr>
+
 <h2>📈 Tech Stack</h2>
 <p>
   <b>Languages:</b> Python <br>
   <b>Frameworks:</b> Streamlit, MLFlow <br>
   <b>Cloud:</b> Microsoft Azure (AI & ML services) <br>
-  <b>Visualization:</b> Matplotlib, Seaborn
+  <b>Visualization:</b> Matplotlib, Seaborn, Plotly
 </p>
+
+<hr>
 
 <h2>🤝 Connect with Me</h2>
 <p>
@@ -51,4 +58,7 @@
 
 <hr>
 
-<p align="center">⭐ If you find this project interesting, don’t forget to <b>star the repo</b> and follow my journey in Global Data Analytics & AI!</p>
+<p align="center">
+  ⭐ If you find this project interesting, don’t forget to <b>star the repo</b> and follow my journey in Global Data Analytics & AI!
+</p>
+
